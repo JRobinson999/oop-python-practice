@@ -21,9 +21,9 @@ Programming in Python.
 2.Open the terminal.
 3.Run this command:
 
-'''bash
+
 python student_practice.py
-'''
+
 
 ## Flies
 
